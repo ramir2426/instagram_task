@@ -1,0 +1,8 @@
+development:
+  host: localhost
+  database: instagram_staging
+  adapter: postgresql
+  encoding: unicode
+  port: 5432
+  username: postgres
+  password: postgres
